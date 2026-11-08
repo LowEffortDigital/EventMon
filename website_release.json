@@ -1,7 +1,7 @@
 {
   "app": "eventmon",
   "name": "EventMon",
-  "version": "v2.0.0",
+  "version": "v2.0.1",
   "tagline": "Windows 11 Event Viewer, Unified Log & Diagnostic Suite",
   "short_description": "Native macOS event exploration with Low Effort Suite v2.0 cross-app theme and persistent Dock icon sync, optional rounded desktop Cards, a visual widget gallery, eight event graph styles, scoped buffered-event summaries, event inspectors and correlation maps.",
   "spotlight_description": "EventMon v2.0 standardizes the Low Effort Suite across PerfMon, EventMon, VolMon, and WebMon with cross-app theme, accent, and persistent Dock icon synchronization, alongside the six-preview widget gallery, optional Cards presentation, and eight buffered event graph styles.",
