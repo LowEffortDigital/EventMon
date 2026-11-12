@@ -10,7 +10,7 @@
 
 <img src="Resources/branding/app_icon_512.png" alt="EventMon Logo" width="112" height="112" />
 
-# EventMon for macOS (v2.0.0)
+# EventMon for macOS (v2.0.1)
 
 **Windows 11 Event Viewer Clarity × Native macOS Unified Logging, Interactive Event Flow Topology & Liquid Glass Desktop HUDs**
 
@@ -88,7 +88,7 @@ Designed and engineered by **Low Effort Design Studios** as part of the **Low Ef
 
 ### Direct Download (`.dmg`)
 Download the latest universal macOS disk image from GitHub Releases:
-- [**Download EventMon.dmg (v2.0.0)**](https://github.com/LowEffortDigital/EventMon/releases/latest/download/EventMon.dmg)
+- [**Download EventMon.dmg (v2.0.1)**](https://github.com/LowEffortDigital/EventMon/releases/latest/download/EventMon.dmg)
 
 ### Build from Source
 ```bash
