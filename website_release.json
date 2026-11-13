@@ -1,11 +1,11 @@
 {
   "app": "eventmon",
   "name": "EventMon",
-  "version": "v2.0.1",
+  "version": "v2.3.0",
   "tagline": "Windows 11 Event Viewer, Unified Log & Diagnostic Suite",
-  "short_description": "Native macOS event exploration with Low Effort Suite v2.0.1 cross-app theme and persistent Dock icon sync, homogenized tactile LowEffortButtonStyle controls, active-display multi-monitor widget placement, optional rounded desktop Cards, a visual widget gallery, eight event graph styles, scoped buffered-event summaries, event inspectors and correlation maps.",
-  "spotlight_description": "EventMon v2.0.1 standardizes the Low Effort Suite across PerfMon, EventMon, VolMon, and WebMon with cross-app theme, accent, and persistent Dock icon synchronization, homogenized tactile LowEffortButtonStyle controls, active-display multi-monitor widget placement with always-on-top floating mode, a six-preview widget gallery, optional Cards presentation, and eight buffered event graph styles.",
-  "catalog_description": "Native macOS event exploration with Low Effort Suite v2.0.1 cross-app theme and persistent Dock icon sync, homogenized tactile LowEffortButtonStyle controls, active-display multi-monitor widget placement, optional rounded desktop Cards, a visual widget gallery, eight event graph styles, scoped buffered-event summaries, event inspectors and correlation maps.",
+  "short_description": "Native macOS event exploration with WebMon v2.3-parity custom widget studio (tabbed Main/Header/Footer designer, toggleable Header & Footer chrome with hover move-cross mini-toolbar, static text, environment variables, date/time & last-refresh tokens, 10 font families, custom surface backgrounds, multi-step undo, Copy Widget, and scrollbar-free full-card expansion), Low Effort Suite theme sync, eight event graph styles, event inspectors and correlation maps.",
+  "spotlight_description": "EventMon v2.3.0 brings full WebMon v2.3 widget customization parity to desktop event cards and modular HUDs: a tabbed Main/Header/Footer component designer, toggleable Header & Footer chrome with edge-to-edge full-card bleed and a hover 4-way move-cross mini-toolbar, static text, environment variables ($USER, $HOST, $HOME, $SHELL), date/time and last-refresh tokens, per-token typography across 10 font families, custom widget surface backgrounds (Solid, Two-Tone Gradient, Procedural Wallpaper), 30-step Undo, Copy Widget with new-name prompt, and scrollbar-free full-card item expansion.",
+  "catalog_description": "Native macOS event exploration with WebMon v2.3-parity custom widget studio (tabbed Main/Header/Footer designer, toggleable Header & Footer chrome, env/date/refresh tokens, 10 font families, custom backgrounds, multi-step undo & Copy Widget), Low Effort Suite theme sync, eight event graph styles, event inspectors and correlation maps.",
   "spotlight_chips": [
     "Low Effort Suite v2.0.1 Sync",
     "Tactile LowEffortButtonStyle UI",
